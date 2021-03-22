@@ -23,7 +23,7 @@ function GameController() {
   ]);
 
   const [hardImgs] = useState([
-    { name: "Kai'Sa", source: './hard/KaiSa.jpg', clicked: false },
+    { name: "Kai'Sa", source: './hard/Kaisa.jpg', clicked: false },
     { name: 'Kalista', source: './hard/Kalista.jpg', clicked: false },
     { name: 'Karma', source: './hard/Karma.jpg', clicked: false },
     { name: 'Karthus', source: './hard/Karthus.jpg', clicked: false },
@@ -32,7 +32,7 @@ function GameController() {
     { name: 'Kayle', source: './hard/Kayle.jpg', clicked: false },
     { name: 'Kayn', source: './hard/Kayn.jpg', clicked: false },
     { name: 'Singed', source: './hard/Singed.jpg', clicked: false },
-    { name: "Kha'Zix", source: './hard/KhaZix.jpg', clicked: false },
+    { name: "Kha'Zix", source: './hard/Khazix.jpg', clicked: false },
     { name: 'Kindred', source: './hard/Kindred.jpg', clicked: false },
     { name: 'Kled', source: './hard/Kled.jpg', clicked: false },
     { name: "Kog'Maw", source: './hard/KogMaw.jpg', clicked: false },
